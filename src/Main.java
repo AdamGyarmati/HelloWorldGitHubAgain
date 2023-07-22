@@ -3,6 +3,5 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello world again!!!");
         System.out.println("Hello from remote!!!");
-        System.out.println("Hello revert!!!");
     }
 }
